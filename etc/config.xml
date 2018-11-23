@@ -5,12 +5,11 @@
             <simpleshipping>
                 <active>1</active>
                 <sallowspecific>0</sallowspecific>
+                <cutoff_cost>50</cutoff_cost>
                 <model>Webolatory\SimpleNovaPoshta\Model\Carrier\Shipping</model>
-                <name>Simple Nova Poshta Shipping Method</name>
-                <price>10.00</price>
-                <title>Simple Nova Poshta Shipping Method</title>
-                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
-                <handling_type>F</handling_type>
+                <name>SimpleNovaPoshta</name>
+                <title>SimpleNovaPoshta</title>
+                <specificerrmsg>SimpleNovaPoshta</specificerrmsg>
             </simpleshipping>
         </carriers>
     </default>
